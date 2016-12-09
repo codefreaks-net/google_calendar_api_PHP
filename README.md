@@ -14,4 +14,9 @@ It allows you to:
 A simple step-by-step explanation in german is available under:
 http://www.codefreaks.net/google-calendar-api-mit-php-nuetzen/
 
-I am no professional programmer. Please excuse unclean programming style :-)
+I am no professional programmer. Please excuse unclean programming style, missing exception handling etc. :-)
+
+
+Live Demo under: http://google-api.gnarf.at
+
+Have Fun !
