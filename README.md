@@ -17,6 +17,6 @@ http://www.codefreaks.net/google-calendar-api-mit-php-nuetzen/
 I am no professional programmer. Please excuse unclean programming style, missing exception handling etc. :-)
 
 
-Live Demo under: http://google-api.gnarf.at
+Live Demo under: http://google-api.losmuchachos.at
 
 Have Fun !
